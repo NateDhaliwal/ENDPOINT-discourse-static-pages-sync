@@ -1,6 +1,6 @@
 ---
 post_type: topic
-topic_name: Welcome to Discourse! :wave:
+topic_name: Welcome to Discourse!
 topic_id: 5
 category: General
 author: system
